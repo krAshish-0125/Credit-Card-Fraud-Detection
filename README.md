@@ -6,15 +6,15 @@ Accuracy from a confusion matrix is not a meaningful metric for unbalanced class
 
 Download link for Kaggle https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Libraries
+**Libraries**
 * numpy
 * pandas
 * matplolib
 * seaborn
 
-Algorithms
+**Algorithms**
 * Logistic Regression
 * Random Forest
 * XGBoost
 
-Best Model || F1_Score = 86.22 || XGBoost
+**Best Model || F1_Score = 86.22 || XGBoost**
